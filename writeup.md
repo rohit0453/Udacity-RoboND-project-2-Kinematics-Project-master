@@ -3,9 +3,9 @@
 ## Using KUKA KR210 Robot
 
 ### Writeup by Rohit Kumar Mishra
-### Feb 2018
+### AUG 2018
 
-<p align="center"> <img src="./image/kuka_kr210.jpg"> </p>
+<p align="center"> <img src="https://github.com/rohit0453/Udacity-RoboND-project-2-Kinematics-Project-master/blob/master/image/kuka_kr210%202.jpg"> </p>
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/972/view) Points
 ---
